@@ -1,7 +1,7 @@
 <img width="1488" height="767" alt="Preview of artwork" src="https://github.com/user-attachments/assets/abc0bc95-1e60-4164-aeb2-665d4aaa00a8" />
 
 
-# Facial Recognition with JavaScript using face-api.js
+# The Grid
 ### To start up the app:
 1. run npm install in the root directory ($ npm install)
 2. run node on server.js ($ node server.js)
