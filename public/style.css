@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
+#canvas1 {
+  position: absolute;
+  background-color: black;
+  top: 0;
+  left: 0;
+}
+#face-canvas {
+  background-color: transparent;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+video {
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
