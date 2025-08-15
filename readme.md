@@ -5,7 +5,7 @@
 ### To start up the app:
 1. run npm install in the root directory ($ npm install)
 2. run node on server.js ($ node server.js)
-3. go to http://localhost:5000
+3. go to http://localhost:5000 (if the server won't start and you're working on a macOS, go to settings and disable AirPlay Receiver, as this seems to be running on port 5000 as well. [Article](https://www.reddit.com/r/webdev/comments/qg8yt9/apple_took_over_port_5000_in_the_latest_macos/))
 
 ### Sources used
 [Face API Github](https://github.com/justadudewhohacks/face-api.js)
