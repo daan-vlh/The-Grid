@@ -2,6 +2,9 @@
 
 
 # The Grid
+About how we all seem to be trapped inside a grid
+------
+
 ### To start up the app:
 1. run npm install in the root directory ($ npm install)
 2. run node on server.js ($ node server.js)
