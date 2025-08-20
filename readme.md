@@ -1,4 +1,4 @@
-<a href="https://youtu.be/EFpKZqVJ7_o" target="_blank"><img width="1488" height="767" alt="Preview of artwork" src="https://github.com/user-attachments/assets/abc0bc95-1e60-4164-aeb2-665d4aaa00a8" /></a>
+[<img width="1488" height="767" alt="Preview of artwork" src="https://github.com/user-attachments/assets/abc0bc95-1e60-4164-aeb2-665d4aaa00a8" />](https://youtu.be/EFpKZqVJ7_o)
 
 
 # The Grid
